@@ -1,7 +1,7 @@
 [<img src="./helloworld.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
 
 <h1>About Me</h1>
-![Github stats](https://github-readme-stats.vercel.app/api?username=mtisby)
+[Github stats](https://github-readme-stats.vercel.app/api?username=mtisby)
 
 
 
