@@ -20,14 +20,12 @@
 <h1>My Stats</h1>
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=mtisby&theme=tokyonight">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
   </a>
 </div>
-
-<br><br><br>
 
 <h1>Contact Me</h1>
 <a href="mailto:marieltisby1998@gmail.com">
