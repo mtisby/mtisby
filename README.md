@@ -30,12 +30,14 @@
 </div>
 
 <h1>Contact Me</h1>
-<a href="mailto:mtisby@uci.edu">
-    <img align="left" style="vertical-align:top; margin:4px" src="./emailButton.png" width="2.5%"/> mtisby@uci.edu
-</a>
-<a href="https://www.linkedin.com/in/mtisby/">
-    <img align="left" style="vertical-align:top; margin:4px" src="./linkedinButton.png" width="2.5%"/>
-</a>
+<div>
+  <a href="mailto:mtisby@uci.edu">
+      <img align="left" style="vertical-align:top; margin:4px" src="./emailButton.png" width="2.5%"/> mtisby@uci.edu
+  </a>
+  <a href="https://www.linkedin.com/in/mtisby/">
+      <img align="left" style="vertical-align:top; margin:4px" src="./linkedinButton.png" width="2.5%"/>
+  </a>
+</div>
 
 <!--
 **mtisby/mtisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
