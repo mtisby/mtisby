@@ -27,11 +27,9 @@
 </a>
 </div>
 
-<h1>Contact Me</h1>
 <div>
-  <a href="mailto:mtisby@uci.edu">
-  <img  align="left" src="./emailButton.png" width="10%"/>
-</a>
+  <h1>Contact Me</h1>
+  <a href="mailto:mtisby@uci.edu"><img  align="left" src="./emailButton.png" width="10%"/></a>
 </div>
 
 
