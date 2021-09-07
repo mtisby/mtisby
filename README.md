@@ -2,9 +2,8 @@
 
 <h1>About Me</h1>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mtisby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtisby)](https://github.com/mtisby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtisby)](https://github.com/anuraghazra/github-readme-stats)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mtisby&repo=mtisby)
 
 
 
