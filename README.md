@@ -29,7 +29,7 @@
 
 <h1>Contact Me</h1>
 <a href="mailto:marieltisby1998@gmail.com">
-    <img align="left" src="./emailButton.png" width="5%"/>
+    <img align="left" src="./emailButton.png" width="2.5%"/> email
 </a>
 
 <!--
