@@ -27,6 +27,13 @@
 </a>
 </div>
 
+<h1>Contact Me</h1>
+<div>
+  <a href="mailto: mtisby@uci.edu">
+  <img  align="left" src="./emailButton.png" />
+</a>
+</div>
+
 
 <!--
 **mtisby/mtisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
