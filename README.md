@@ -1,7 +1,8 @@
 [<img width="100%" src="./helloworld.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
 
 <h1>About Me</h1>
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mtisby&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mtisby&langs_count=5&theme=tokyonight)]()
 
 <!--
 **mtisby/mtisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
