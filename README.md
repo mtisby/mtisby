@@ -19,21 +19,18 @@
 
 <h1>My Stats</h1>
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=mtisby&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
-</a>
+  <a href="https://github-readme-stats.vercel.app/api?username=mtisby&theme=tokyonight">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+  </a>
 </div>
-
-<br>
 
 <h1>Contact Me</h1>
-<div>
-  <a href="mailto:mtisby@uci.edu"><img  align="left" src="./emailButton.png" width="5%"/></a>
-</div>
-
+<a href="mailto:marieltisby1998@gmail.com">
+    <img align="left" src="./emailButton.png" width="5%"/>
+</a>
 
 <!--
 **mtisby/mtisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
