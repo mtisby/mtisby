@@ -1,6 +1,7 @@
 [<img width="100%" src="./helloworld.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
 
 <h1>About Me</h1>
+<p>I am a cognitive scientist turned fullstack JavaScript developer</p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtisby&show_icons=true&theme=tokyonight)
 
 <!--
