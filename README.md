@@ -1,6 +1,6 @@
 [<img width="100%" src="./helloworld.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
 
-<p align="center">cognitive scientist turned fullstack JavaScript developer</p>
+<h2 align="center">cognitive scientist turned fullstack JavaScript developer</h2>
 
 <h1>Languages</h1>
 <p align="center">
