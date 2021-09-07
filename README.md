@@ -37,7 +37,7 @@
 <div/>
 <div>
   <a href="https://www.linkedin.com/in/mtisby/">
-      <img align="left" style="vertical-align:top; margin:4px" src="./linkedinButton.png" width="2.5%"/> mtisby@uci.edu
+      <img align="left" style="vertical-align:top; margin:4px" src="./linkedinButton.png" width="2.5%"/>
   </a>
 <div/>
 <!--
