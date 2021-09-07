@@ -1,4 +1,4 @@
-[<img src="./helloworld.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
+[<img src="./helloworld.gif" alt="👋 Hello World! I'm Mar" width=100vw/>](https://mtisby.github.io/)
 
 <h1>About Me</h1>
 
