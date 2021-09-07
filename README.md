@@ -33,7 +33,7 @@
 <a href="mailto:mtisby@uci.edu">
     <img align="left" src="./emailButton.png" width="2.5%"/> mtisby@uci.edu
 </a>
-
+<br>
 <a href="https://www.linkedin.com/in/mtisby/">
     <img align="left" src="./linkedinButton.png" width="2.5%"/> mtisby@uci.edu
 </a>
