@@ -34,6 +34,9 @@
     <img align="left" src="./emailButton.png" width="2.5%"/> mtisby@uci.edu
 </a>
 
+<a href="https://www.linkedin.com/in/mtisby/">
+    <img align="left" src="./linkedinButton.png" width="2.5%"/> mtisby@uci.edu
+</a>
 <!--
 **mtisby/mtisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
