@@ -27,6 +27,8 @@
   </a>
 </div>
 
+<br><br><br>
+
 <h1>Contact Me</h1>
 <a href="mailto:marieltisby1998@gmail.com">
     <img align="left" src="./emailButton.png" width="5%"/>
