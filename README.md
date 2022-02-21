@@ -32,11 +32,11 @@
 <h1>Contact Me</h1>
 <div>
   <a href="mailto:mtisby@uci.edu">
-    <img align="left" style="vertical-align:top; margin:4px" src="./emailButton.png" width="2.5%"/> 
+    <img align="left" style="vertical-align:top; margin:4px" src="./email.png" width="2.5%"/> 
     <p> mtisby@uci.edu </p>
   </a>
   <a href="https://www.linkedin.com/in/mtisby/">
-    <img align="left" style="vertical-align:top; margin:4px" src="./linkedinButton.png" width="2.5%"/>
+    <img align="left" style="vertical-align:top; margin:4px" src="./linkedin.png" width="2.5%"/>
     <p> LinkedIn </p>
   </a>
 </div>
