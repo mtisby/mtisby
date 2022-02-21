@@ -1,4 +1,4 @@
-[<img width="100%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
+[<img width="50%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
 
 <p align="center">cognitive scientist turned fullstack JavaScript developer</p>
 
