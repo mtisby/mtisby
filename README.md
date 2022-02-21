@@ -1,6 +1,6 @@
-[<img width="50%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)
+<p align="center">[<img width="50%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)</p>
 
-<p align="center">cognitive scientist turned fullstack JavaScript developer</p>
+<p align="center">Hello world, my name Mar and I am a cognitive scientist turned fullstack JavaScript developer</p>
 
 <h1>Languages</h1>
 <p align="center">
