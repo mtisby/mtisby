@@ -1,4 +1,4 @@
-<p align="center">[<img width="50%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/>](https://mtisby.github.io/)</p>
+<p align="center"><a href="https://mtisby.github.io/portfolio"><img width="40%" src="./MKT.gif" alt="👋 Hello World! I'm Mar"/></p>
 
 <p align="center">Hello world, my name Mar and I am a cognitive scientist turned fullstack JavaScript developer</p>
 
