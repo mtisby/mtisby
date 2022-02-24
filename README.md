@@ -19,14 +19,11 @@
 
 <h1>My Stats</h1>
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=mtisby&theme=tokyonight">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
-  </a>
+  <p align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=mtisby&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=mtisby&count_private=true&show_icons=true&theme=tokyonight" />
+    </a>
+  </p>
 </div>
 
 <h1>Contact Me</h1>
