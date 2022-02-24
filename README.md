@@ -28,5 +28,9 @@
     <img align="left" style="vertical-align:top; margin:4px" src="./linkedin-logo.png" width="2.5%"/>
     <p> LinkedIn </p>
   </a>
+  <a href="https://mtisby.github.io/portfolio/">
+    <img align="left" style="vertical-align:top; margin:4px" src="./internet.png" width="2.5%"/>
+    <p> Website </p>
+  </a>
 </div>
 
