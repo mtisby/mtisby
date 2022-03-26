@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mtisby.github.io/portfolio"><img width="40%" src="logo-transparent.png" alt="👋 Hello World! I'm Mar"/></p>
+<p align="center"><img width="40%" src="logo-transparent.png" alt="👋 Hello World! I'm Mar"/></p>
 
 <p align="center">Hi I'm Mar and I build experiences.</p>
 <p align="center">find out more about me by checking out my <a href="https://mtisby.github.io/portfolio">portfolio</a> site.</p>
